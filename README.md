@@ -7,7 +7,7 @@ comfyui-模特换装
 
      2.安装依赖requirements.txt 
      
-     3.下载模型.
+     3.下载模型放到checkpoints下
 
 效果:
 ![199cdd10365f80a9e8a62b68ce72edb](https://github.com/StartHua/ComfyUI_Seg_VITON/assets/22284244/0c084624-9974-48eb-993d-29d7de31c452)
