@@ -5,7 +5,7 @@ comfyui-模特换装
 
 安装：1.下载放到custom_nodes下名字修改为ComfyUI_Seg_VITON
 
-     2.安装依赖requirements.txt 
+     2.安装依赖requirements.txt  python_embeded\python.exe pip install -r requirements.txt
      
      3.下载模型放到checkpoints下
      
