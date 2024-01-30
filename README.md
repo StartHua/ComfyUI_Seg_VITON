@@ -21,3 +21,5 @@ comfyui-模特换装
 
 
 ![4320c1477f13e52e98742a53d3adf28](https://github.com/StartHua/ComfyUI_Seg_VITON/assets/22284244/45c2c6e7-2a6e-43a1-b03f-219355176e13)
+
+![9a44170b497d1b527b8d3aacbb491bc](https://github.com/StartHua/ComfyUI_Seg_VITON/assets/22284244/9bd6dce3-a0b6-43ab-8cb5-8dd1dfe05455)
