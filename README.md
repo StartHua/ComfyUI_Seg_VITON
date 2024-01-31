@@ -12,6 +12,8 @@ comfyui-模特换装
 链接：https://pan.baidu.com/s/15Q8gyzYepInnTwFguytRkw 
 提取码：ou1f
 
+另外下载地址hg: https://huggingface.co/mattmdjaga/segformer_b2_clothes
+
 备注：VITONHD.ckpt需要自己申请 https://github.com/rlawjdghek/StableVITON 
 
 ![1706626044494](https://github.com/StartHua/ComfyUI_Seg_VITON/assets/22284244/b358abd7-deae-4166-b179-f1b94dc9aeb4)
