@@ -3,6 +3,8 @@ comfyui-模特换装
 
 视频地址： https://www.bilibili.com/video/BV1rA4m1V7M3/
 
+youtobe: https://www.youtube.com/watch?v=6-d4iO_XmjI
+
 安装：1.下载放到custom_nodes下名字修改为ComfyUI_Seg_VITON
 
      2.安装依赖requirements.txt  python_embeded\python.exe pip install -r requirements.txt
