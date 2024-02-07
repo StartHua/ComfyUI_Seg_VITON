@@ -26,4 +26,5 @@ youtobe: https://www.youtube.com/watch?v=6-d4iO_XmjI
 
 ![4320c1477f13e52e98742a53d3adf28](https://github.com/StartHua/ComfyUI_Seg_VITON/assets/22284244/45c2c6e7-2a6e-43a1-b03f-219355176e13)
 
-![9a44170b497d1b527b8d3aacbb491bc](https://github.com/StartHua/ComfyUI_Seg_VITON/assets/22284244/9bd6dce3-a0b6-43ab-8cb5-8dd1dfe05455)
+
+![3dbbb6b8684b9c78741a6c3e8a6b293](https://github.com/StartHua/ComfyUI_Seg_VITON/assets/22284244/8f3bebd4-7608-4fb9-bd4d-72ab19679851)
